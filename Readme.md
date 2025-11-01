@@ -21,4 +21,4 @@ Une horloge numérique simple et élégante réalisée en **HTML**, **CSS** et *
 
 ---
 
-## 🧩 Structure du projet
+
