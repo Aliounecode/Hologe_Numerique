@@ -20,5 +20,3 @@ Une horloge numérique simple et élégante réalisée en **HTML**, **CSS** et *
 - **JavaScript (Vanilla)** → Logique et mise à jour dynamique
 
 ---
-
-## 🧩 Structure du projet
